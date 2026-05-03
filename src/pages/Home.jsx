@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="flex flex-col items-center justify-center h-[85vh] text-center px-4">
       <h1 className="text-5xl md:text-6xl font-extrabold mb-6">
-        Make Better Decisions 🧠
+        Make Better Decisions 
       </h1>
 
       <p className="text-gray-400 light:text-gray-600 max-w-xl mb-8 text-lg"></p>
